@@ -1,0 +1,36 @@
+curl https://api.github.com/repos/avk0004/mcino-Introduction-to-Git-and-GitHub
+
+{
+  "id": 859341205,
+  "node_id": "R_kgDOMzkb1Q",
+  "name": "mcino-Introduction-to-Git-and-GitHub",
+  "full_name": "avk0004/mcino-Introduction-to-Git-and-GitHub",
+  "private": false,
+  "owner": {
+    "login": "avk0004",
+    "id": 224711979,
+    "type": "User"
+  },
+  "html_url": "https://github.com/avk0004/mcino-Introduction-to-Git-and-GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/avk0004/mcino-Introduction-to-Git-and-GitHub",
+  "parent": {
+    "id": 371984501,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "owner": {
+      "login": "ibm-developer-skills-network"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "source": {
+    "id": 371984501,
+    "name": "mcino-Introduction-to-Git-and-GitHub",
+    "full_name": "ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub",
+    "owner": {
+      "login": "ibm-developer-skills-network"
+    },
+    "html_url": "https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub"
+  },
+  "default_branch": "main"
+}
